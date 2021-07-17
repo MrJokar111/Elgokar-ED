@@ -6,15 +6,15 @@
 
 How to install on Termux 
 ---------------------------
-pkg update & pkg upgrade
+- pkg update & pkg upgrade
 
-git clone https://github.com/MrJokar111/Elgokar-ED.git
-ls
-cd Elgokar-ED
-ls 
-Python2 pkgs.py
-ls
-python2 Elgokar-ED.py
+- git clone https://github.com/MrJokar111/Elgokar-ED.git
+- ls
+- cd Elgokar-ED
+- ls 
+- Python2 pkgs.py
+- ls
+- python2 Elgokar-ED.py
 
 Then enjoy with the tool 😜
 
