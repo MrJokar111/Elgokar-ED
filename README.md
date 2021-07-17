@@ -14,7 +14,7 @@ How to install on Termux
 - ls 
 - Python2 pkgs.py
 - ls
-- python2 Elgokar-ED.py
+- python2 Elgokar.py
 
 Then enjoy with the tool 😜
 
